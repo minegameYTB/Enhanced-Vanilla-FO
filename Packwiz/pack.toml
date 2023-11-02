@@ -1,0 +1,13 @@
+name = "Enhanced Vanilla (FO)"
+author = "Minegame Ytb"
+version = "1.0.3-1.20.1-RELEASE"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "cc98937dad17b14e985a46bbe37a37b1da326af6cdf186509ca340f62b2415b0"
+
+[versions]
+fabric = "0.14.23"
+minecraft = "1.20.1"

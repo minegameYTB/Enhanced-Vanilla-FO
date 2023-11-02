@@ -1,16 +1,10 @@
-# Fabulously Optimized
+# Enhanced Vanilla FO
 
-A Fabric-based Minecraft modpack focusing on performance and graphics enhancements.
+[![Built on Fabulously Optimized](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/cozy/built-with/fabulously-optimized_64h.png)](https://github.com/Fabulously-Optimized/fabulously-optimized)
 
-[**📜 Mod list**](INCLUDED-MODS.md) | [**🎛️ Changed options**](https://fabulously-optimized.gitbook.io/modpack/readme/changed-options) | [**❤️ Support and contribute**](https://github.com/Fabulously-Optimized/fabulously-optimized/blob/main/CONTRIBUTING.md)
+[**📜 Mod list**](INCLUDED-MODS.md) | [**🎛️ Changed options**](https://fabulously-optimized.gitbook.io/modpack/readme/changed-options) | [**❤️ Support and contribute to Fabulously Optimized**](https://github.com/Fabulously-Optimized/fabulously-optimized/blob/main/CONTRIBUTING.md)
 
-<a href="https://fabulously-optimized.gitbook.io/modpack/"><img alt="Wiki" height="40" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/documentation/gitbook_vector.svg"></a> 
-<a href="https://fabulously-optimized.gitbook.io/modpack/readme/language-support"><img alt="Translate" height="40" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/translate/generic-plural_vector.svg"></a>
-
-<a href="https://fabulously-optimized.github.io/discord"><img alt="Discord" height="40" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/social/discord-plural_vector.svg"></a> 
-<a href="https://floss.social/@fabulouslyoptimized"><img alt="Mastodon" height="40" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/social/mastodon-plural_vector.svg"></a>
-
-## Downloads
+## Downloads FO base
 
 [![Download from CurseForge](https://cf.way2muchnoise.eu/full_fabulously-optimized_downloads%20on%20CurseForge.svg?badge_style=for_the_badge)](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized/files?showAlphaFiles=show) [![Modrinth](https://img.shields.io/modrinth/dt/fabulously-optimized?logo=modrinth&color=darkgreen&label=Download%20from%20Modrinth&style=for-the-badge)](https://modrinth.com/modpack/fabulously-optimized) [![How to install](https://i.ibb.co/FbKTDYs/github.png)](https://fabulously-optimized.gitbook.io/modpack/readme/install-instructions)
 
@@ -42,26 +36,7 @@ Not sure which edition is right for you? Check this handy table!
 | Linux support | ❌ | ✅ | ✅ | ✅ | ✅ |
 | Unique feature | 1-click install | Steam Deck support | Nostalgic UI | Always up to date | Familiarity |
 
-¹ Supports the modpack by increasing its download count, but not with monetary benefits.
-
-## Accessibility
-
-Fabulously Optimized is designed to be accessible for everyone, and as such contains the following accessibility features on its latest version.
-
-* The first-run accessibility screen is not used, to make setup smoother and faster. Instead, users can continue to take advantage of the menu keyboard support.
-  * Languages screen can be accessed by pressing <kbd>→</kbd> <kbd>Enter</kbd>.
-  * Accessibility screen can be accessed by pressing <kbd>←</kbd> <kbd>←</kbd> <kbd>Enter</kbd>.
-  * Narrator can be directly enabled by pressing <kbd>Ctrl</kbd> + <kbd>B</kbd>.
-* Users can search for and select multiple languages
-  * User's native language is automatically applied (where supported)
-  * Selecting multiple languages is useful for users who know several, and for languages with variants (like Spanish), to ensure mods are translated as much as possible
-  * Items have the original names on their tooltips for command usage purposes
-* Game controllers are supported
-* [Several launchers are supported](#downloads)
-* [The purpose and settings for each included mod are displayed in the mod menu](https://fabulously-optimized.gitbook.io/modpack/readme/changed-options#resource-packs)
-* Splash screen is black, similar to Bedrock Edition
-* Other [changed options](https://fabulously-optimized.gitbook.io/modpack/readme/changed-options) to match users' expectations
-* For more accessibility features, try the mod [Minecraft Access](https://modrinth.com/mod/minecraft-access/)
+¹ Supports the Fabulously Optimized modpack by increasing its download count, but not with monetary benefits.
 
 ## Disclaimers
 
