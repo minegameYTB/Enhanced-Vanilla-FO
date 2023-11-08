@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "README.md"
+hash = "efc4d40e1080a9f0d449cd8174b232cd09dd99ea68bb3645d560eb56676b3886"
+
+[[files]]
 file = "config/fabric_loader_dependencies.json"
 hash = "4866b7ad778baffde66264ff149f5f0bfedc6ba2b5bed6b8551006c093f9c77d"
 
@@ -893,9 +897,41 @@ hash = "7a248c7c97954085358965c5d27a03578cdd2e27581c9dae7b72893c337b0482"
 metafile = true
 
 [[files]]
+file = "packwiz-linux-64bit"
+hash = "ff709e425cc50adb35ed6b6eb3be714fe6d9b2c5a2fcdc3f9052dd0a46569a10"
+
+[[files]]
+file = "resourcepacks/BVBmobsV1.2.zip.disabled"
+hash = "bca12ac0ab7cf4c6a53e176ab8b937ec22639fd15471c1823f4c9be02f31a164"
+
+[[files]]
+file = "resourcepacks/BVBoverlaysV6.1.zip.disabled"
+hash = "4099802a9d4b3834e3f8aa218039baa6b39dcee30e6dc568de9243ba59ff8018"
+
+[[files]]
+file = "resourcepacks/Better+Lanterns+v1.1.2.zip"
+hash = "a31b7941fa01358dd09431f158bffa552725382295298f47c21be0acade4dbb9"
+
+[[files]]
+file = "resourcepacks/BetterVanillaBuildingV2.91.2+LITE.zip.disabled"
+hash = "4467b0c62c36ce695b2ad233f71189b4417706d21c707fc0941f30bc1b82ace7"
+
+[[files]]
+file = "resourcepacks/BetterVanillaBuildingV2.91.2.zip.disabled"
+hash = "7a4622444c21039f0f4da5ae680b5e2fa8971fc44e4075d7c611d37e358332b1"
+
+[[files]]
+file = "resourcepacks/BvBConnectedTexturesV1.2.zip.disabled"
+hash = "5c5b29059bccda2965820cf7baf108eddcc31922cb39f7052a53b03a2e73af65"
+
+[[files]]
 file = "resourcepacks/Chat_Reporting_Helper.pw.toml"
 hash = "c839af5c34415a7a58492d2af7127fe6c5f0a78f3b21621becbfc947848dd5df"
 metafile = true
+
+[[files]]
+file = "resourcepacks/Faithful 32x - 1.20.1.zip"
+hash = "aa9068a8eef4d4e7fca0b3a4dedab8a64159777ae6a0f667f7362378144cfb06"
 
 [[files]]
 file = "resourcepacks/Fast_Better_Grass.pw.toml"
@@ -903,8 +939,20 @@ hash = "91c0f92acd96cb462cf502b35bccbac8075c6a6370373e6974f190d74d96877c"
 metafile = true
 
 [[files]]
+file = "resourcepacks/Lily Pad Overhaul.zip"
+hash = "6cf27cd8b19e011f1a694ef1b2d666c14df25abfaf29b0d63d4fb8532ca49d3a"
+
+[[files]]
 file = "resourcepacks/Mod Menu Helper.zip"
 hash = "bcfbad415e4c46e708c5566c069bee4fdb68d9a43bce1839613b4e59e3d17322"
+
+[[files]]
+file = "resourcepacks/New Faithful 32x Overlays.zip"
+hash = "48721149a2fa23393763ec2a838b42b1dcf93bee5559e427d98cca3cb7007918"
+
+[[files]]
+file = "resourcepacks/Ore-Grids-Faithful-4.zip"
+hash = "28e83e57829ed4a65563e90c57012d21db75db848202ed6c8378c4c9d95b5d7c"
 
 [[files]]
 file = "resourcepacks/SodiumTranslations.pw.toml"
@@ -915,3 +963,11 @@ metafile = true
 file = "resourcepacks/Translations_for_Sodium.pw.toml"
 hash = "68f35b30f1de13300839a8f17568effbc20b1b27a77e8e8c46d1985ac61fc985"
 metafile = true
+
+[[files]]
+file = "resourcepacks/VanillaTweaks_r964735.zip"
+hash = "a9532a7dc65af51dca173ea40f38dde9c3a6ef8de480a9611586fa52e37c3bf6"
+
+[[files]]
+file = "resourcepacks/it-s-all-connected.zip.disabled"
+hash = "806c70978ec9435881e8d2c41b3d94a0a7eed30764429673eb99c0ec13661f07"
