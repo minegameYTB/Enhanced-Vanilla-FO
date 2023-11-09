@@ -1369,10 +1369,6 @@ hash = "7a248c7c97954085358965c5d27a03578cdd2e27581c9dae7b72893c337b0482"
 metafile = true
 
 [[files]]
-file = "packwiz-linux-64bit.linux-pkg"
-hash = "ff709e425cc50adb35ed6b6eb3be714fe6d9b2c5a2fcdc3f9052dd0a46569a10"
-
-[[files]]
 file = "resourcepacks/BVBmobsV1.2.zip.disabled"
 hash = "bca12ac0ab7cf4c6a53e176ab8b937ec22639fd15471c1823f4c9be02f31a164"
 
