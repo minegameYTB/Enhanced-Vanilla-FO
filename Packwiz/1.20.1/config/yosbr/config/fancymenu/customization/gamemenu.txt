@@ -14,9 +14,9 @@ customization {
 }
 
 customization {
-  identifier = %id=button_compatibility_id:mc_pausescreen_disconnect_button%
-  orientation = top-centered
-  x = -102
+  identifier = %id=398354%
+  orientation = top-left
+  x = 238
   action = movebutton
   y = 222
 }
