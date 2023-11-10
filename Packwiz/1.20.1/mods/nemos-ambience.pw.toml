@@ -1,0 +1,13 @@
+name = "Nemo's Ambience"
+filename = "nemos-ambience-1.1.0-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/eldHjEzg/versions/iVMt2oD3/nemos-ambience-1.1.0-1.20.1.jar"
+hash-format = "sha1"
+hash = "8189e82eec513685b26033c65da8209146651fd1"
+
+[update]
+[update.modrinth]
+mod-id = "eldHjEzg"
+version = "iVMt2oD3"
