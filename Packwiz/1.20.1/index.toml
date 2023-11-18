@@ -9,10 +9,6 @@ file = "config/isxander-main-menu-credits.json"
 hash = "69b0860e43a3732f292ce4d388c113c4677a5e7ba674805e0a916e5d84a1da90"
 
 [[files]]
-file = "config/options.txt"
-hash = "a4119602537ae2aaa3bb33870d5b73346124550a83a2d002548657e16214b2df"
-
-[[files]]
 file = "config/yosbr/config/.puzzle_cache/mojangstudios.png"
 hash = "cfb86d46c1f850450c5436b338e2b97581412bfac1cfb1a65090fb5a894e441a"
 
@@ -187,14 +183,6 @@ hash = "b2364c4bfe1f26f84892f2fb2eb4003baa2b82289aa54729c06610d9250bd568"
 [[files]]
 file = "config/yosbr/config/fallingtree.json"
 hash = "7edc65e5414f74f29310d43175d6c64e47d139607dabd9ffd16f22172648a686"
-
-[[files]]
-file = "config/yosbr/config/fancymenu/animations/mc_cave_animation_2cfb5f2c6ab641c1/animation.properties"
-hash = "fe79a4d628e8c18dab9c769d4728f83bd32fc39e5a1461b28870dcf6c55577f7"
-
-[[files]]
-file = "config/yosbr/config/fancymenu/animations/mc_cave_animation_2cfb5f2c6ab641c1/audio/introaudio.wav"
-hash = "310af2157e4c0394ead12437711d5cf87ea36da788bc73cd5f6e288b537ad323"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/config.txt"
@@ -1615,6 +1603,10 @@ hash = "d0ad34a9125f1f0c52a7d146cbea459201fb0f74468ac6c5d6338d8d0a286e72"
 [[files]]
 file = "config/yosbr/config/zoomify.json"
 hash = "8d61a625f65493f3e4f40f5e49cd0d5405b6e105b2d9c005950f78dbfb2095fa"
+
+[[files]]
+file = "config/yosbr/options.txt"
+hash = "a4119602537ae2aaa3bb33870d5b73346124550a83a2d002548657e16214b2df"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
