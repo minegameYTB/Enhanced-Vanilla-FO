@@ -1263,11 +1263,6 @@ hash = "129bb8b135edc60038f021b693f5b88a0067b722f326e0d6067112243774289b"
 metafile = true
 
 [[files]]
-file = "mods/forge-early-loading-screen-fabric.pw.toml"
-hash = "716c1a8c5cca9ed5236cf6c99daf594d1232009fbcf89c1774a9c675219b329a"
-metafile = true
-
-[[files]]
 file = "mods/fsb-interop.pw.toml"
 hash = "6501e582c96ed5783a706c8b6faf34bb6d040a787f807c182383d7e014848341"
 metafile = true
@@ -1308,8 +1303,8 @@ hash = "c5d5b857fa70cb5deed260054b9723dc8069635880061d5ba328e1eb684604bf"
 metafile = true
 
 [[files]]
-file = "mods/itemphysic.pw.toml"
-hash = "acdeae67b5f8def7a61712611f75b52bd7512281cd8533be67292d60c9f5c919"
+file = "mods/itemphysic-lite.pw.toml"
+hash = "d7af4e122c6f120552d0d0864d2980cde51cc195e7f2e8d84e84db4d5faecec3"
 metafile = true
 
 [[files]]
