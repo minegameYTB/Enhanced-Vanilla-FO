@@ -1,0 +1,13 @@
+{
+    "main_menu": {
+        "bottom_right": [
+            {
+                "text": "Enhanced Vanilla (Fabulously optimized based) 1.0.3-1.20.1-PRE1",
+                "clickEvent": {
+                    "action": "open_url",
+                    "value": "https://github.com/minegameYTB/Enhanced-Vanilla-FO/"
+                }
+            }
+        ]
+    }
+}

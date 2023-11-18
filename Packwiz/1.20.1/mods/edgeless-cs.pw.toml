@@ -1,0 +1,13 @@
+filename = 'edgeless_cs-1.20-1.0.0.jar'
+name = 'Edgeless Chat Screen'
+side = 'client'
+
+[download]
+hash = 'ade3ddf9eebcbf4ab8cd0b7c1581ae6c9ea36d7a5c8405cbd60112ca0a9386febd6c97bccc6011771d4384c60711aa6d4ec733392b127ab0afb012ee67027f59'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/lS8sHS85/versions/wXEdL5Z2/edgeless_cs-1.20-1.0.0.jar'
+
+[update.modrinth]
+mod-id = 'lS8sHS85'
+version = 'wXEdL5Z2'

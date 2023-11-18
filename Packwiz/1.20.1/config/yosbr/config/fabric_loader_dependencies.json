@@ -1,0 +1,21 @@
+{
+    "version": 1,
+    "overrides": {
+        "fabricloader": {
+            "+depends": {
+                "fabricloader": ">=0.14.23"
+            }
+        },
+        "minecraft": {
+            "+recommends": {
+                "Fabulously Optimized": ">5.4.1"
+            }
+        },
+        "debugify": {
+            "recommends": {}
+        },
+        "lambdynlights": {
+            "recommends": {}
+        }
+    }
+}

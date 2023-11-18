@@ -30,50 +30,96 @@ customization {
 }
 
 customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
+  orientation = mid-left
+  x = 343
+  action = movebutton
+  y = 49
+}
+
+customization {
+  identifier = %id=400298%
+  orientation = mid-left
+  x = 343
+  action = movebutton
+  y = -46
+}
+
+customization {
+  identifier = %id=400298%
+  width = 99
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=44%
+  orientation = top-left
+  x = 240
+  action = movebutton
+  y = 216
+}
+
+customization {
+  identifier = %id=44%
+  width = 201
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=604346%
+  orientation = top-left
+  x = 444
+  action = movebutton
+  y = 192
+}
+
+customization {
   identifier = %id=button_compatibility_id:mc_titlescreen_accessibility_button%
   orientation = mid-left
-  x = 442
+  x = 444
   action = movebutton
-  y = 46
+  y = 49
 }
 
 customization {
   identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
   orientation = top-left
-  x = 241
+  x = 240
   action = movebutton
-  y = 238
+  y = 241
 }
 
 customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
-  orientation = mid-left
-  x = 343
-  action = movebutton
-  y = 46
+  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
+  width = 99
+  action = resizebutton
+  height = 20
 }
 
 customization {
   identifier = %id=button_compatibility_id:mc_titlescreen_language_button%
   orientation = mid-left
-  x = 218
+  x = 217
   action = movebutton
-  y = 46
+  y = 49
 }
 
 customization {
-  identifier = %id=44%
+  identifier = %id=button_compatibility_id:modmenu_titlescreen_mods_button%
   orientation = top-left
-  x = 239
+  x = 241
   action = movebutton
-  y = 215
+  y = 192
 }
 
 customization {
-  identifier = %id=44%
-  width = 202
-  action = resizebutton
-  height = 20
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
+  orientation = top-left
+  x = 241
+  action = movebutton
+  y = 146
 }
 
 customization {
