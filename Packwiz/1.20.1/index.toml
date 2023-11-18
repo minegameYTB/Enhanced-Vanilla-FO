@@ -6,7 +6,7 @@ hash = "5015a5c8fdf3e5a28e95deb4a049fc4e333a7037998d37e1fcc34ffd6085c033"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "69b0860e43a3732f292ce4d388c113c4677a5e7ba674805e0a916e5d84a1da90"
+hash = "289d68706663000da62f7387af5e094a20693ec032dbe0b2de9ca9c39f01263b"
 
 [[files]]
 file = "config/yosbr/config/.puzzle_cache/mojangstudios.png"
@@ -198,7 +198,7 @@ hash = "414e0ad98847122b90a30d772530d3a4b822f947ae5da3669432d96c04a7d227"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/customization/maisons.txt"
-hash = "6c2993ff64afe053e7473241b3416361354847aaf583b6640206db3d417d1766"
+hash = "8f3e19581c50be13f09950f40e47054b4795a9015c5b4c35a622f23ecbde4be9"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/locals/de_de.local"

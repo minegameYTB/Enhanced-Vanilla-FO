@@ -30,49 +30,11 @@ customization {
 }
 
 customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
-  orientation = mid-left
-  x = 343
-  action = movebutton
-  y = 49
-}
-
-customization {
-  identifier = %id=400298%
-  orientation = mid-left
-  x = 343
-  action = movebutton
-  y = -46
-}
-
-customization {
-  identifier = %id=400298%
-  width = 99
-  action = resizebutton
-  height = 20
-}
-
-customization {
-  identifier = %id=44%
-  orientation = top-left
-  x = 240
-  action = movebutton
-  y = 216
-}
-
-customization {
-  identifier = %id=44%
-  width = 201
-  action = resizebutton
-  height = 20
-}
-
-customization {
   identifier = %id=604346%
   orientation = top-left
   x = 444
   action = movebutton
-  y = 192
+  y = 216
 }
 
 customization {
@@ -99,11 +61,34 @@ customization {
 }
 
 customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
+  orientation = mid-left
+  x = 343
+  action = movebutton
+  y = 49
+}
+
+customization {
   identifier = %id=button_compatibility_id:mc_titlescreen_language_button%
   orientation = mid-left
   x = 217
   action = movebutton
   y = 49
+}
+
+customization {
+  identifier = %id=400298%
+  orientation = mid-left
+  x = 343
+  action = movebutton
+  y = -47
+}
+
+customization {
+  identifier = %id=400298%
+  width = 99
+  action = resizebutton
+  height = 20
 }
 
 customization {
@@ -115,11 +100,26 @@ customization {
 }
 
 customization {
+  identifier = %id=44%
+  orientation = top-left
+  x = 240
+  action = movebutton
+  y = 216
+}
+
+customization {
+  identifier = %id=44%
+  width = 201
+  action = resizebutton
+  height = 20
+}
+
+customization {
   identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
   orientation = top-left
   x = 241
   action = movebutton
-  y = 146
+  y = 145
 }
 
 customization {
