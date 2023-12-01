@@ -462,7 +462,7 @@ hash = "592da77b12a161665aff9e497b797f0d3abc9469b904b7d26ac336f9b5ec081c"
 
 [[files]]
 file = "config/yosbr/config/replaymod.json"
-hash = "43670e2572173d0540fb7427e6200f6aedb53c5371215abfee4b938260fe256d"
+hash = "c2184232925d902806f014e1ab463be2e7a40efc7d92c35d4ae2bf936077daf4"
 
 [[files]]
 file = "config/yosbr/config/rrls.toml"
@@ -1474,7 +1474,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "a94b26104a8ff5dafab4b0824eca6f44ed71aa0ed53b150a2659b1d7361a2b31"
+hash = "1feec673626f914308c517f2ed29317cb1ca3124d7854667449cf8bbed3e126d"
 metafile = true
 
 [[files]]
